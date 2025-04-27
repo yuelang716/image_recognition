@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+opencv-python>=4.5.0
+paddlepaddle>=2.4.0
+paddleocr>=2.6.0
